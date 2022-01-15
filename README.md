@@ -1,4 +1,4 @@
-# README resit RPI Assignment Jesper Doorn
+### Resit RPI Assignment Jesper Doorn
 
 Hi Rob. In this repo you can find the follow files:
 
