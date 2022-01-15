@@ -6,4 +6,6 @@ Hi Rob. In this repo you can find the follow files:
 2. recommended_movies.csv, the output of the recommender system
 3. proof of working image
 
+The data that I used for this resit can be found [here](https://dlo.mijnhva.nl/d2l/le/content/349047/viewContent/892959/View)
+
 Good luck with grading. See you around!
